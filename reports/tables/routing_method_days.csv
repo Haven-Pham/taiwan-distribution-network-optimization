@@ -1,0 +1,61 @@
+dc,day,method,cost,km,hours,trucks,dropped,rule_breaks
+43,0,Nearest neighbour,207420.2,3816.7,129.8,19,0,0
+43,0,Savings + local search,176364.9,3032.4,115.4,18,0,0
+43,0,Savings + guided local search,176364.9,3032.4,115.4,18,0,0
+120,0,Nearest neighbour,168404.6,2958.6,113.3,16,0,0
+120,0,Savings + local search,153818.4,2561.8,105.6,16,0,0
+120,0,Savings + guided local search,153818.4,2561.8,105.6,16,0,0
+166,0,Nearest neighbour,121064.6,2407.6,75.2,9,0,0
+166,0,Savings + local search,98738.1,1964.4,63.7,7,0,0
+166,0,Savings + guided local search,98738.1,1964.4,63.7,7,0,0
+336,0,Nearest neighbour,220938.2,3999.6,124.1,23,0,0
+336,0,Savings + local search,177510.4,2671.7,99.6,25,0,0
+336,0,Savings + guided local search,177510.4,2671.7,99.6,25,0,0
+43,1,Nearest neighbour,198578.8,3569.8,125.7,19,0,0
+43,1,Savings + local search,181781.9,3106.3,117.4,19,0,0
+43,1,Savings + guided local search,181662.8,3099.1,117.7,19,0,0
+120,1,Nearest neighbour,166025.4,2901.9,111.3,16,0,0
+120,1,Savings + local search,150233.6,2469.6,103.3,16,0,0
+120,1,Savings + guided local search,150233.6,2469.6,103.3,16,0,0
+166,1,Nearest neighbour,121064.6,2407.6,75.2,9,0,0
+166,1,Savings + local search,98738.1,1964.4,63.7,7,0,0
+166,1,Savings + guided local search,98738.1,1964.4,63.7,7,0,0
+336,1,Nearest neighbour,239056.5,4508.1,132.3,23,0,0
+336,1,Savings + local search,176673.9,2791.0,101.3,23,0,0
+336,1,Savings + guided local search,176673.9,2791.0,101.3,23,0,0
+43,2,Nearest neighbour,194151.1,3444.9,123.7,19,0,0
+43,2,Savings + local search,177025.2,3045.9,116.1,18,0,0
+43,2,Savings + guided local search,176963.1,3041.1,116.4,18,0,0
+120,2,Nearest neighbour,163898.8,2843.4,110.3,16,0,0
+120,2,Savings + local search,149259.9,2509.1,104.2,15,0,0
+120,2,Savings + guided local search,149259.9,2509.1,104.2,15,0,0
+166,2,Nearest neighbour,121064.6,2407.6,75.2,9,0,0
+166,2,Savings + local search,98738.1,1964.4,63.7,7,0,0
+166,2,Savings + guided local search,98738.1,1964.4,63.7,7,0,0
+336,2,Nearest neighbour,219910.0,3974.1,123.4,23,0,0
+336,2,Savings + local search,179833.4,2668.9,99.3,26,0,0
+336,2,Savings + guided local search,179833.4,2668.9,99.3,26,0,0
+43,3,Nearest neighbour,198706.3,3574.8,125.6,19,0,0
+43,3,Savings + local search,175494.8,3002.9,115.4,18,0,0
+43,3,Savings + guided local search,176053.5,3018.5,115.7,18,0,0
+120,3,Nearest neighbour,172601.8,3020.6,112.8,17,0,0
+120,3,Savings + local search,151015.9,2489.5,103.8,16,0,0
+120,3,Savings + guided local search,151015.9,2489.5,103.8,16,0,0
+166,3,Nearest neighbour,121064.6,2407.6,75.2,9,0,0
+166,3,Savings + local search,98738.1,1964.4,63.7,7,0,0
+166,3,Savings + guided local search,98738.1,1964.4,63.7,7,0,0
+336,3,Nearest neighbour,227748.4,4190.9,127.2,23,0,0
+336,3,Savings + local search,179230.5,2718.7,100.5,25,0,0
+336,3,Savings + guided local search,178890.9,2707.1,100.5,25,0,0
+43,4,Nearest neighbour,206749.5,3789.9,130.1,19,0,0
+43,4,Savings + local search,177960.8,3073.9,116.4,18,0,0
+43,4,Savings + guided local search,177960.8,3073.9,116.4,18,0,0
+120,4,Nearest neighbour,167527.8,2938.0,112.5,16,0,0
+120,4,Savings + local search,152372.4,2526.9,104.5,16,0,0
+120,4,Savings + guided local search,152372.4,2526.9,104.5,16,0,0
+166,4,Nearest neighbour,121064.6,2407.6,75.2,9,0,0
+166,4,Savings + local search,98738.1,1964.4,63.7,7,0,0
+166,4,Savings + guided local search,98738.1,1964.4,63.7,7,0,0
+336,4,Nearest neighbour,226296.8,4213.7,128.2,22,0,0
+336,4,Savings + local search,177833.4,2685.4,99.3,25,0,0
+336,4,Savings + guided local search,177833.4,2685.4,99.3,25,0,0

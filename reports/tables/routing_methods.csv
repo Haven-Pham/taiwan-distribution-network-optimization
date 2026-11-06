@@ -1,0 +1,4 @@
+method,cost,km,hours,trucks,dropped,rule_breaks,saving_vs_nearest_pct,annual_saving_vs_nearest
+Nearest neighbour,716667.5,13156.6,441.3,67.0,0.0,0.0,0.0,0.0
+Savings + guided local search,606027.5,10233.6,384.3,65.8,0.0,0.0,15.4,33191989.5
+Savings + local search,606019.9,10235.2,384.2,65.8,0.0,0.0,15.4,33194263.5

@@ -1,0 +1,6 @@
+max_truck_hours,feasible_without_east_dc,total_model_cost,dcs
+4.83,False,,
+5.5,False,,
+6.0,True,475319509.1231065,3.0
+7.0,True,461773511.28800344,2.0
+8.0,True,448581469.7937814,2.0

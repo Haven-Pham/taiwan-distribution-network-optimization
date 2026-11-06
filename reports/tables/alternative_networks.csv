@@ -1,0 +1,5 @@
+network,dcs,sites,fixed_cost,linehaul_cost,routed_delivery_cost,routed_total_cost,dropped_stops,extra_vs_optimised_pct,extra_vs_optimised
+Optimised,4,Changhua City; Pingtung City; Hualien City; Taoyuan District,216000000.0,34315754.0,183383720.0,633699473.0,0,0.0,0.0
+North + south,3,Hualien City; Fengshan District; Taoyuan District,180000000.0,35690544.0,240072609.0,655763153.0,0,3.5,22063680.0
+North + centre + south,4,Hualien City; Fengshan District; Xitun District; Taoyuan District,240000000.0,32955538.0,182968122.0,655923660.0,0,3.5,22224187.0
+Rule: largest metros,4,Hualien City; Sanmin District; Banqiao District; Beitun District,264000000.0,35831169.0,182107980.0,681939149.0,0,7.6,48239676.0

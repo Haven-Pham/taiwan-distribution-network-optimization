@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Taiwan Network Explorer</title>
+<meta name="description" content="Compare distribution networks for Taiwan, chosen with OR-Tools on real population and road data: cost, service and truck routes for three to eight distribution centres.">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main" data-i18n="skip"></a>
+<header class="top">
+  <div class="wrap top-row">
+    <div class="heading">
+      <p class="eyebrow" data-i18n="eyebrow"></p>
+      <h1 data-i18n="title"></h1>
+      <p class="lede" data-i18n="lede"></p>
+    </div>
+    <div class="controls">
+      <div class="seg" role="group" aria-label="Language">
+        <button type="button" data-lang="en">English</button>
+        <button type="button" data-lang="zh">繁體中文</button>
+      </div>
+      <button type="button" class="ghost" id="theme"></button>
+    </div>
+  </div>
+</header>
+
+<main id="main" class="wrap">
+  <div class="filters">
+    <span class="filter-label" id="count-label" data-i18n="countLabel"></span>
+    <div class="seg" role="group" aria-labelledby="count-label" id="counts"></div>
+    <label class="check"><input type="checkbox" id="show-routes"><span data-i18n="showRoutes"></span></label>
+  </div>
+  <p class="takeaway" id="takeaway" aria-live="polite"></p>
+  <section class="kpis" id="kpis" aria-label="Key figures"></section>
+
+  <div class="layout">
+    <figure class="card map-card">
+      <figcaption id="map-title"></figcaption>
+      <div class="map-wrap">
+        <svg id="map" role="img"></svg>
+        <div id="tip" class="tip" hidden></div>
+      </div>
+      <p class="note" id="map-note"></p>
+    </figure>
+    <div class="side">
+      <figure class="card">
+        <figcaption data-i18n="costTitle"></figcaption>
+        <div id="cost-bars"></div>
+        <div class="legend" id="cost-legend"></div>
+      </figure>
+      <figure class="card">
+        <figcaption data-i18n="dcTitle"></figcaption>
+        <div class="table-scroll" tabindex="0" role="region" aria-labelledby="dc-caption">
+          <table id="dc-table"></table>
+        </div>
+      </figure>
+    </div>
+  </div>
+
+  <section class="block">
+    <h2 data-i18n="howTitle"></h2>
+    <ul class="list">
+      <li data-i18n="how1"></li>
+      <li data-i18n="how2"></li>
+      <li data-i18n="how3"></li>
+      <li data-i18n="how4"></li>
+    </ul>
+  </section>
+</main>
+
+<footer class="wrap foot">
+  <p><span data-i18n="by"></span> ·
+    <a href="https://github.com/Haven-Pham/taiwan-distribution-network-optimization" data-i18n="code"></a> ·
+    <a href="https://haven-portfolio02.vercel.app" data-i18n="portfolio"></a></p>
+  <p data-i18n="credit"></p>
+</footer>
+<script src="app.js"></script>
+</body>
+</html>

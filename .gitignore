@@ -1,0 +1,17 @@
+# OS / editors
+desktop.ini
+Thumbs.db
+.DS_Store
+~$*
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+
+# Official files are downloaded, and checkpoints only help a long run resume
+data/raw/
+data/checkpoints/

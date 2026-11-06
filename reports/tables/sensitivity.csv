@@ -1,0 +1,9 @@
+case,rate_per_parcel_km,best_dcs,sites,routed_total_cost,cost_per_parcel,dropped_stops,next_best_gap_pct
+Demand 10M parcels,0.06,3,Toufen City; Pingtung City; Hualien City,465269129.584,46.527,0,4.909
+Demand 40M parcels,0.069,4,Changhua City; Pingtung City; Hualien City; Taoyuan District,923705191.606,23.093,0,0.952
+DC cost +30%,0.054,3,Toufen City; Taitung City; Chiayi City West District,654640929.683,32.732,0,5.976
+DC cost -30%,0.079,4,Changhua City; Pingtung City; Hualien City; Taoyuan District,569770863.794,28.489,0,2.478
+Flat rent,0.073,3,Changhua City; Taitung City; Xinzhuang District,639168449.222,31.958,0,2.949
+Fuel and transport +30%,0.088,4,Changhua City; Pingtung City; Hualien City; Taoyuan District,670762010.544,33.538,0,2.153
+"Smaller trucks (1,000 parcels)",0.107,4,Changhua City; Pingtung City; Hualien City; Taoyuan District,656900183.58,32.845,0,0.235
+Later deadline (10:00),0.086,3,Hualien City; Chiayi City West District; Taoyuan District,610999460.035,30.55,0,0.668
